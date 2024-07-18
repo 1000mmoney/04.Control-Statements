@@ -1,5 +1,4 @@
-연습문제2
-int(input("숫자를 입력하세요:")
+# int(input("숫자를 입력하세요:")
 
 a = input("숫자를 입력하세요:")
 result = int(a) + 100
